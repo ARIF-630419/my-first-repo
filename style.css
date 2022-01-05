@@ -34,3 +34,10 @@ body{
 p{
     font-size: 20px;
 }
+.left{
+    display: block;
+    text-align: left;
+}
+.margin{
+    margin-top: 170px;
+}
