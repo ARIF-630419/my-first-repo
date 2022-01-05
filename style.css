@@ -1,7 +1,36 @@
-p{
-    color: red;
+body{
+    margin: 0;
+    padding: 0;
+    
 }
+.underline{
+    text-decoration: underline;
+    font-weight: 700;
+}
+.font{
+    font-weight: normal;
+}
+.felx{
+    display: flex;
+    background-color: rgba(25, 47, 140, .5);
+}
+.half-width{
+    width: 50%;
+    text-align: center;
+    margin: 50px;
+  
+}
+.half-width img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
 
-h1{
-    background-color: green;
+}
+.justify{
+    text-align: justify;
+    display: block;
+
+}
+p{
+    font-size: 20px;
 }
